@@ -1,1 +1,7 @@
-{"name":"Jean-Louis GUENEGO public web repositories","tagline":"Github pages","body":"Look at my first project:\r\nhttp://jlguenego.github.io/boof/\r\n","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
+{
+  "name": "Jean-Louis GUENEGO public web repositories",
+  "tagline": "Github pages",
+  "body": "Look at my first project:\r\nhttp://jlguenego.github.io/boof/<br/>\r\nAnd my second one:\r\nhttp://jlguenego.github.io/angular-jlg-daterangepicker/<br/>\r\n",
+  "google": "",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
